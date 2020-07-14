@@ -2,7 +2,7 @@
 
 #### Dutch National Flag
 
-You are given an array with only 0s,1s and 2s.
+You are given an array with only 0s,1s and 2s. Sort the array
 
 ### Constraints
 
