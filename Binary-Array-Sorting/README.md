@@ -24,9 +24,9 @@ Sorted Array
         Let variable zero_ending = -1
 
        1). loop for i = 0 to n
-       2). if ARR[i] = 0 ,then
-       3). zero_ending = zero_ending + 1
-       4). swap ARR[i] and ARR[zero_ending]
+       2).      if ARR[i] = 0 ,then
+       3).          zero_ending = zero_ending + 1
+       4).          swap ARR[i] and ARR[zero_ending]
 
 # Code in C
 
