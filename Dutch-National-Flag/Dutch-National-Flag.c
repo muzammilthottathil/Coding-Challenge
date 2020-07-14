@@ -11,10 +11,10 @@
        3).          zero_ending = zero_ending + 1
        4).          swap ARR[i] and ARR[zero_ending]
        5). set one_ending = zero_ending
-       1). loop for i = 0 to n
-       2).      if ARR[i] = 1 ,then
-       3).          one_ending = one_ending + 1
-       4).          swap ARR[i] and ARR[zero_ending]
+       6). loop for i = 0 to n
+       7).      if ARR[i] = 1 ,then
+       8).          one_ending = one_ending + 1
+       9).          swap ARR[i] and ARR[zero_ending]
 
 */
 
@@ -41,7 +41,7 @@ int main(){
     }
 
     one_ending = zero_ending;
-    
+
     for(int i=0; i<arr_count;i++){
         if(arr[i]==1){
             one_ending++;
