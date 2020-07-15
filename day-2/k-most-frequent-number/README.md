@@ -72,7 +72,6 @@ int main(){
     for(int i=0 ; i<n ; i++)
         frequency[ar[i]]++;
 
-    int result[n];
     unordered_map<int,int>:: iterator p;
     for(p = frequency.begin(); p != frequency.end(); p++)
         if(p->second >= k)
