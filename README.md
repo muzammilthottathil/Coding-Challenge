@@ -1,3 +1,5 @@
+Beginner to Expert level coding questions and solutions for daily progress and interview preparations
+
 <img src="./img/reangle.svg" width="70%">
 
 <a href="https://github.com/taqnar/Coding-Challenge/tree/master/day-1">
